@@ -1,4 +1,4 @@
-# Sprint 12 T01. Unsupervised Learning - Clustering
+# Sprint 12 T01: Unsupervised Learning - Clustering
 
 **Target:**
 * K Means
